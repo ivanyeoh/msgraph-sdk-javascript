@@ -11,8 +11,8 @@ coverage
 **/*.tgz
 npm-debug.log
 
-/lib/*
-!/lib/.npmignore
+#/lib/*
+#!/lib/.npmignore
 
 /authProviders/*
 
